@@ -1,7 +1,3 @@
-Here's a sample `README.md` file tailored to your project:
-
----
-
 # Movie App - React
 
 A movie application that allows users to view popular movies, search movies, add them to favorites, and view details. The app also includes **Dark/Light mode** and is deployed using **GitHub Pages**.
